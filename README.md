@@ -94,4 +94,4 @@ I'm always open to collaboration and suggestions! If you have a different approa
 
 ## 📜 License
 
-This repository is licensed under the [MIT License](LICENSE). See the `LICENSE` file for more details.
+This repository is licensed under the [Apache License 2.0](LICENSE). See the `LICENSE` file for more details.
