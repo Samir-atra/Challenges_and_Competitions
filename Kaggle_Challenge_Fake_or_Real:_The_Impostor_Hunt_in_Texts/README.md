@@ -1,6 +1,6 @@
 # Fake or Real: The Impostor Hunt in Texts
 
-This repository contains solutions for the Kaggle challenge "Fake or Real: The Impostor Hunt in Texts". The goal of the challenge is to distinguish between real human-written texts and fake AI-generated texts.
+This repository contains solutions for the Kaggle challenge "Fake or Real: The Impostor Hunt in Texts". Organized by the european space agency ESA ,The goal of the challenge is to distinguish between real human-written texts and fake AI-generated texts.
 
 The `baseline-solution.ipynb` notebook implements and evaluates several approaches to tackle this problem.
 
