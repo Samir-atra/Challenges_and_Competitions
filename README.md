@@ -48,12 +48,27 @@ My submissions for the [ML Olympiad 2024](https://www.kaggle.com/competitions/ml
 *   **Challenge:** [Predicting Earthquake Damage](https://www.kaggle.com/competitions/ml-olympiad-predicting-earthquake-damage)
 *   **Description:** This project predicts the level of damage to buildings caused by an earthquake using a neural network built with TensorFlow and Keras.
 *   **Solution:** `ML_Olympiad_2024/Predicting_earthquack_damage/EarthQuake.ipynb`
+*   **Reference:** bibtex```@misc{ml-olympiad-predicting-earthquake-damage,
+    author = {Tensor Girl},
+    title = {ML Olympiad - Predicting Earthquake Damage},
+    year = {2024},
+    howpublished = {\url{https://kaggle.com/competitions/ml-olympiad-predicting-earthquake-damage}},
+    note = {Kaggle}
+}```
 
 #### 🐢 The Turtle Vision Challenge
 
 *   **Challenge:** [The Turtle Vision Challenge](https://www.kaggle.com/competitions/mlo2024mlact)
 *   **Description:** This project classifies images of marine life to distinguish between turtles, jellyfish, and plastic pollution using a fine-tuned InceptionV3 model.
 *   **Solution:** `ML_Olympiad_2024/Turtle_vision_challenge/TurtleVision_Challenge.ipynb`
+*   **Reference:** bibtex```@misc{mlo2024mlact,
+    author = {Ahmed LOUHICHI and Anas Lahdhiri and Imen MASMOUDI and Mehdi SOMRANI and Seif Eddine Achour},
+    title = {ML Olympiad - TurtleVision Challenge},
+    year = {2024},
+    howpublished = {\url{https://kaggle.com/competitions/mlo2024mlact}},
+    note = {Kaggle}
+}```
+
 
 ---
 
@@ -62,9 +77,31 @@ My submissions for the [ML Olympiad 2024](https://www.kaggle.com/competitions/ml
 *   **Challenge:** The Impostor Hunt in Texts
 *   **Description:** A project for a Kaggle challenge focused on detecting fake text. This is likely a Natural Language Processing (NLP) task.
 *   **Solution:** `Kaggle_Challenge_Fake_or_Real:_The_Impostor_Hunt_in_Texts/baseline-solution.ipynb`
-
+*   **Reference:** bibtex ```@misc{fake-or-real-the-impostor-hunt,
+    author = {Agata Kaczmarek and Dawid Płudowski and Krzysztof Kotowski and Ramez Shendy and Artur Janicki and Przemysław Biecek and Evridiki Ntagiou},
+    title = {Fake or Real: The Impostor Hunt in Texts},
+    year = {2025},
+    howpublished = {\url{https://kaggle.com/competitions/fake-or-real-the-impostor-hunt}},
+    note = {Kaggle}
+}
+```
 ---
 
+### 🧠 NeurIPS 2025 - Google Code Golf Championship
+
+*   ** Challenge:** Google Code Golf 2025 
+*   ** Description:** This competition, part of the NeurIPS 2025 conference, challenges participants to write the shortest possible code for a given task. The goal is to optimize for code length, encouraging creative and efficient solutions. 
+*   ** Solution:** NeurIPS_2025_Challenge/solution.py 
+*   ** Reference:** bibtex ```@misc{google-code-golf-2025,
+    author = {Michael D. Moffitt and Divy Thakkar and Ryan Burnell and Orhan Firat and Walter Reade and Sohier Dane and Addison Howard},
+    title = {NeurIPS 2025 - Google Code Golf Championship},
+    year = {2025},
+    howpublished = {\url{https://kaggle.com/competitions/google-code-golf-2025}},
+    note = {Kaggle}
+}```
+
+
+---
 ### 🌍 HackerEarth
 
 Solutions for challenges on [HackerEarth](https://www.hackerearth.com/challenges/).
