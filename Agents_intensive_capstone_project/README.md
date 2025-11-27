@@ -23,27 +23,22 @@ Code Broker is an intelligent multi-agent system built with Google's ADK that au
 
 ```bash
 # Clone and setup
-git clone https://github.com/Samir-atra/agents_intensive_dev.git
-cd agents_intensive_dev
+git clone https://github.com/Samir-atra/Challenges_and_Competitions.git
+cd Challenges_and_Competitions/Agents_intensive_capstone_project
 pip install -r requirements.txt
 
 # Configure environment (add your GOOGLE_API_KEY and GITHUB_TOKEN)
 cp .env.example .env
 
 # Run the notebook
-jupyter notebook notebooks/code_broker.ipynb
+jupyter notebook code_broker.ipynb
 ```
 
 ## 📂 Project Structure
 
 ```
-agents_intensive_dev/
-├── notebooks/
-│   └── code_broker.ipynb          # Main executable notebook
-├── reports/                        # Generated assessment reports
-├── src/                            # Source code modules
-├── Docs/                           # Documentation
-├── KAGGLE_WRITEUP.md              # Detailed competition writeup
+Challenges_and_Competitions/Agents_intensive_capstone_project/
+├── code_broker.ipynb               # Main executable notebook
 ├── requirements.txt                # Python dependencies
 └── README.md                       # This file
 ```
