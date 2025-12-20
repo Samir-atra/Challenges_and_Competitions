@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.14-blue.svg)](https://www.python.org/downloads/)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](samiratra95@gmail.com)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=samiratra95@gmail.com&item_name=Code+Broker+Donation&currency_code=USD)
 
 
 Welcome to my comprehensive collection of solutions for various programming challenges and competitions! This repository showcases my work across multiple platforms including Kaggle, LeetCode, HackerEarth, Google Code Golf, and NeurIPS competitions. I'm passionate about problem-solving, machine learning, and AI, and this repository documents my journey through diverse computational challenges.
@@ -425,7 +425,7 @@ Special thanks to all the competition organizers:
 
 <div align="center">
 
-### ⭐ Star this repo if you find it useful!
+### ⭐ Star this repo if you find it useful! and donate through the button on the top of the readme file to support my work!
 
 **Happy Coding! 🚀**
 
