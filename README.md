@@ -2,6 +2,8 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.14-blue.svg)](https://www.python.org/downloads/)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](samiratra95@gmail.com)
+
 
 Welcome to my comprehensive collection of solutions for various programming challenges and competitions! This repository showcases my work across multiple platforms including Kaggle, LeetCode, HackerEarth, Google Code Golf, and NeurIPS competitions. I'm passionate about problem-solving, machine learning, and AI, and this repository documents my journey through diverse computational challenges.
 
